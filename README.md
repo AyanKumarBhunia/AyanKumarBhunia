@@ -8,7 +8,7 @@
 
 💬 In 2017, I completed my B.Tech (Bachelor of Technology) from the Institute of Engineering & Management (IEM), Kolkata (India), under the *West Bengal University of Technology*, majoring in Electronics and Communication Engineering. 
 
-💬 **DBLP Profile**: https://github.com/AyanKumarBhunia/
+💬 **DBLP Profile**: https://dblp.org/pid/171/5204.html 
 
 💬 **Google Scholar**: https://tinyurl.com/yc3kxzem
 
