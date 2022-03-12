@@ -4,7 +4,7 @@
 
 💬 Currently, I am working as a **Senior Research Scientist (Computer Vision)** with **Prof. Yiannis Andreopoulos** at **iSIZE** , a London-based deep-tech company specializing in *deep learning for video delivery*.
 
-💬 Before that, I worked as a full-time research assistant for nearly 1.5 years at the Institute for Media Innovation (IMI) Lab of **Nanyang Technological University, Singapore**.
+💬 Before staring my PhD, I worked as a full-time research assistant for nearly 1.5 years at the Institute for Media Innovation (IMI) Lab of **Nanyang Technological University, Singapore**.
 
 💬 In 2017, I completed my B.Tech (Bachelor of Technology) from the Institute of Engineering & Management (IEM), Kolkata (India), under the *West Bengal University of Technology*, majoring in Electronics and Communication Engineering. 
 
