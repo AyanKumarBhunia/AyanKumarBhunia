@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 💬 I am a **Doctor of Philosphy** (PhD) student (Completing Status/Thesis-writeup Phase), focussing on **Computer Vision** and **Deep Learning**, at **SketchX Lab**, Centre for Vision, Speech and Signal Processing (**CVSSP**) of the **University of Surrey, England, United KIngdom (UK)** with a fully-funded university scholarship. My supervisors are **Prof. Yi-Zhe Song (SonG)** and **Prof. Tao Xiang (Tony)**. 
 
 💬 Currently, I am working as a **Senior Research Scientist (Computer Vision)** with **Prof. Yiannis Andreopoulos** at **iSIZE** , a London-based deep-tech company specializing in *deep learning for video delivery*. During my ongoing tenure with iSIZE, I have led the project on **Video Denoising** that introduces a low-cost neural-solution (**BitClear**) for compressed-video artifacts removal. [🔭News Update from iSIZE🔭](https://www.isize.co/isize-releases-bitclear-to-make-unwatchable-videos-watchable-by-eliminating-compression-artifacts-in-user-generated-content/). 
