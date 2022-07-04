@@ -23,7 +23,9 @@
 🔭 For more details, please visit my homepage: https://ayankumarbhunia.github.io/ ☑
 
 ⚡ Recent ⚡ 
+
 💬☲ 𝐅𝐨𝐮𝐫 𝐩𝐚𝐩𝐞𝐫𝐬 got accepted in 𝗖𝗩𝗣𝗥-𝟮𝟬𝟮𝟮 including 𝒕𝒘𝒐 𝒇𝒊𝒓𝒔𝒕 𝒂𝒖𝒕𝒉𝒐𝒓𝒔. 
+
 💬☲ **Two** 𝐩𝐚𝐩𝐞𝐫𝐬 got accepted in **ECCV-2022** including **one** 𝒇𝒊𝒓𝒔𝒕 𝒂𝒖𝒕𝒉𝒐𝒓𝒔.
 
 <!--
